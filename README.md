@@ -1,0 +1,1 @@
+In this tutorial activity, we created shader graphs containing lighting models. Specifically models for Simple Diffuse Lighting, Diffuse Lighting with Ambient and Simple Specular. This was done by creating simple texture nodes and implementing new nodes which add light effects and combining them with math nodes. Each Shader option is toggleable from the material menu.
