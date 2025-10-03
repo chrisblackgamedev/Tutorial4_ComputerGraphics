@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Tutorial4.sln"
+    "dotnet.defaultSolution": "Tutorial4_ComputerGraphics.sln"
 }
